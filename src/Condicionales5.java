@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Condicionales5 {
     public static void main(String[] args) {
+
         Scanner scan=new Scanner(System.in);
 
         System.out.println("Introduce el numero de alumnos: ");

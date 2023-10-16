@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Condicionales4 {
     public static void main(String[] args) {
 
+
         Scanner scan=new Scanner(System.in);
         System.out.println("Introduce la base: ");
         int base=scan.nextInt();

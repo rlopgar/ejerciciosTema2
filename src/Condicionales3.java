@@ -5,6 +5,7 @@ public class Condicionales3 {
 
         Scanner scan=new Scanner(System.in);
 
+
         System.out.println("Introduce el primer numero: ");
         double num1=scan.nextDouble();
         System.out.println("Introduce el segundo numero: ");
