@@ -10,6 +10,8 @@ public class Condicionales7 {
         System.out.println("Introduce el peso en kg");
         double peso=scan.nextDouble();
 
+        scan.close();
+
         double precio=0.0f;
 
         if(pais==1&&peso<=5){
