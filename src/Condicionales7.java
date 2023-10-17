@@ -34,7 +34,5 @@ public class Condicionales7 {
         }
 
         System.out.println("El coste del transporte del paquete son "+precio+" euros");
-
-
     }
 }
