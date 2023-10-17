@@ -38,7 +38,8 @@ public class Condicionales6 {
         else {
             if (turno == 1) {
                 precioImpuesto = precio * 0.15;
-            } else {
+            }
+            else {
                 precioImpuesto = precio * 0.10f;
             }
         }
