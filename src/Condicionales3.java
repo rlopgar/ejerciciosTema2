@@ -17,9 +17,9 @@ public class Condicionales3 {
         if(num2==0){
             System.out.println("Error");
         }
-            else{
-                System.out.println(division);
-            }
+        else{
+            System.out.println(division);
+        }
     }
 
 }

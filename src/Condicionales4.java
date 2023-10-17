@@ -17,9 +17,9 @@ public class Condicionales4 {
         if (exponente>0){
             System.out.println("El resultado de la potencia es: "+potencia);
         }
-            else if(exponente==0){
-                System.out.println("El resultado de la potencia es 1");
-            }
-            //La tercera opción no sé hacerla y no quiero recurrir a chatgpt
+        else if(exponente==0){
+            System.out.println("El resultado de la potencia es 1");
+        }
+        //La tercera opción no sé hacerla y no quiero recurrir a chatgpt
     }
 }

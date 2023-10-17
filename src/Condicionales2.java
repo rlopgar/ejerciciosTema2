@@ -13,8 +13,8 @@ public class Condicionales2 {
         if(ano%4==0){
             System.out.println(ano+" es bisiesto");
         }
-            else{
-                System.out.println(ano+" no es bisiesto");
-            }
+        else{
+            System.out.println(ano+" no es bisiesto");
+        }
     }
 }
